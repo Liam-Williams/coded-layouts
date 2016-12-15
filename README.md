@@ -1,4 +1,4 @@
-# coded-layouts
+# Interfaces without Storyboards & Nibs
 Lighthouse Labs demo project for laying out views programmatically
 
 # Goals
